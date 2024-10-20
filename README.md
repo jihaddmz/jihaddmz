@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Android Engineer from Lebanon</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihaddmz" alt="jihaddmz" /></a> </p>
-
 - 🔭 I’m currently working on **different libraries for android development that speed up the development.**
 
 - 🌱 I’m currently planning about learning **Kotlin Multiplatform**
