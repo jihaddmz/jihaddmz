@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jihad Mahfouz</h1>
-<h3 align="center">A passionate Android Engineer from Lebanon</h3>
+<h3 align="center">A passionate Software Engineer from Lebanon</h3>
 
 
 - 🔭 I’m currently working on **different libraries for android development that speed up the development.**
 
-- 🌱 I’m currently planning about learning **Kotlin Multiplatform**
+- 🌱 I’m learning and practicing backend development using **Spring Boot**
 
 - 👯 I’m looking to collaborate on **any android projects**
 
