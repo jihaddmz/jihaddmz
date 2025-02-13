@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihad Mahfouz</h1>
-<h3 align="center">A passionate Software Engineer specialized in Mobile App Development from Lebanon</h3>
+<h3 align="center">A passionate Software Engineer from Lebanon, specialized in Mobile App Development</h3>
 
 
 - 🔭 I’m currently working on **different libraries for android development that speed up the development.**
