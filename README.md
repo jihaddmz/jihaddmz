@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software Engineer from Lebanon, specialized in Mobile App Development</h3>
 
 
-- 🔭 I’m currently working on **different libraries for android development that speed up the development.**
+- 🔭 I’m currently working on **a Mobile app for lebanese users using React Native**
 
-- 🌱 I’m learning and practicing backend development using **Spring Boot**
+- 🌱 I’m learning and practicing backend development using **Spring Boot & Nodejs**
 
-- 👯 I’m looking to collaborate on **any android projects**
+- 👯 I’m looking to collaborate on **any mobile app project**
 
-- 💬 Ask me about **Android | Flutter Development**
+- 💬 Ask me about **Android | Flutter | React Native Development**
 
 - 📫 How to reach me **jihadmahfouz8@gmail.com**
 
