@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihad Mahfouz</h1>
-<h3 align="center">A passionate Software Engineer from Lebanon, specialized in Mobile App Development</h3>
+<h3 align="center">A passionate Software Engineer from Lebanon, specialized in Full Stack Development</h3>
 
 
 - 🔭 I’m currently working on **a Mobile app for lebanese users using React Native**
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any mobile app project**
 
-- 💬 Ask me about **Android | Flutter | React Native Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **jihadmahfouz8@gmail.com**
 
