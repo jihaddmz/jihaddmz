@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **a Mobile app for lebanese users using React Native**
 
-- 🌱 I’m learning and practicing backend development using **Spring Boot & Nodejs**
+- 🌱 I’m learning and practicing **Performance & Security Optimization** in software code
 
-- 👯 I’m looking to collaborate on **any mobile app project**
+- 👯 I’m looking to collaborate on **any mobile app or website project**
 
 - 💬 Ask me about **Software Development**
 
